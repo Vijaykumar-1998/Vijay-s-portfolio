@@ -23,7 +23,7 @@ with tab1:
         """)
 
     with col2:
-        st.image("/Users/vijay/Downloads/photo.jpg", width=200, caption="Vijaykumar C")
+        st.image("assets/photo.jpg", width=200, caption="Vijaykumar C")
 
 # Skills
 with tab2:
